@@ -8,6 +8,6 @@ public class Main {
         System.out.println("jebotak");
         System.out.println("ciecie");
         System.out.println("hadeh");
-
+        System.out.println("<3");
     }
 }
